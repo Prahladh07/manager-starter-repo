@@ -13,5 +13,18 @@ Practice the professional "Feature Branch" workflow by forking, cloning, and con
 
 ### Command History 
 Complete this README.md with the commands you used to complete the tasks above. 
-Updated by Prahladh07
-Second update by Prahladh
+
+
+## My Work
+
+### Repository Link
+https://github.com/Prahladh07/manager-starter-repo
+
+### Commands Used
+
+git clone https://github.com/Prahladh07/manager-starter-repo.git
+git checkout -b prahladh
+git add README.md
+git commit -m "Updated README"
+git push origin prahladh
+
